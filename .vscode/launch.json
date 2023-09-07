@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://github.com/shootingcode352/reactslord.git",
+            "request": "launch",
+            "url": "https://github.com/shootingcode352/reactslord.git"
+        }
+    ]
+}
